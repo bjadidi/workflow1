@@ -1,0 +1,9 @@
+Recommendation Likelihood: 3/5
+Improvement Suggestions: No
+DOE Relevance Score: 2/5
+DOE Comments: Yes
+Other Feedback: OK
+
+--- Polymer-Specific Feedback ---
+Bio-PE - I'm green™ STN7006: This is for Bio-PE
+PHA - PHACT S1000P: This is for PHA Phact
